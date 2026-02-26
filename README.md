@@ -1,16 +1,34 @@
-# meal_app
+# meals_app
 
-A new Flutter project.
+A Flutter app to browse, add, and manage meals with ratings and cooking time.  
+This project demonstrates a full-featured meal management app with Firebase integration, state management, and localization support.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🌟 Features
 
-A few resources to get you started if this is your first Flutter project:
+- Browse all meals with images, names, ratings, and cooking time  
+- Add new meals with image URL, name, description, time, and rating  
+- Persistent storage using SQLite/Firebase (your choice)  
+- Responsive UI with Flutter ScreenUtil  
+- Form validation for all input fields  
+- Localization ready for multiple languages  
+- Clean architecture and reusable widgets
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Screenshots
+
+*(Replace with your screenshots)*
+
+| Home Screen | Add Meal Screen |
+|-------------|----------------|
+| ![Home](screenshots/home.png) | ![Add Meal](screenshots/add_meal.png) |
+
+---
+
+## ⚙️ Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/<Mahmoudsamynofal>/meals_app.git
