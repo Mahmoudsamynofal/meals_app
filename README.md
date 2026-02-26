@@ -31,4 +31,4 @@ This project demonstrates a full-featured meal management app with Firebase inte
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/<Mahmoudsamynofal>/meals_app.git
+git clone https://github.com/Mahmoudsamynofal/meals_app
